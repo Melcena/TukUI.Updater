@@ -1,0 +1,15 @@
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\bin\Debug\tukzui.updater.exe
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\bin\Debug\tukzui.updater.pdb
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\bin\Debug\tukzui.updater.xml
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\Window1.baml
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\Window1.g.vb
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\Application.g.vb
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater_MarkupCompile.cache
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater.g.resources
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater.Resources.resources
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater.vbproj.GenerateResource.Cache
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater.exe
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater.xml
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\obj\Debug\tukzui.updater.pdb
+C:\Users\Marcus\Documents\Visual Studio 2008\Projects\tukzui.updater\tukzui.updater\bin\Debug\tukzui.updater.exe.config
