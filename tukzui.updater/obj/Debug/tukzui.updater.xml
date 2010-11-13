@@ -6,15 +6,7 @@ tukzui.updater
 </name>
 </assembly>
 <members>
-<member name="M:tukzui.updater.Window1.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="T:tukzui.updater.Window1">
-	<summary>
-Window1
-</summary>
-</member><member name="M:tukzui.updater.Application.InitializeComponent">
+<member name="M:tukzui.updater.Application.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
@@ -25,6 +17,22 @@ Application Entry Point.
 </member><member name="T:tukzui.updater.Application">
 	<summary>
 Application
+</summary>
+</member><member name="M:tukzui.updater.options.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:tukzui.updater.options">
+	<summary>
+options
+</summary>
+</member><member name="M:tukzui.updater.Main.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:tukzui.updater.Main">
+	<summary>
+Main
 </summary>
 </member><member name="P:tukzui.updater.My.MyWpfExtension.Application">
 	<summary>

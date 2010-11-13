@@ -1,0 +1,12 @@
+﻿<Window x:Class="options"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="options" Height="300" Width="300">
+    <Grid>
+        <TextBox Height="23" Margin="48,35,0,0" Name="txtWoW" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" />
+        <TextBox Height="23" Margin="48,94,26,0" Name="txtDL" VerticalAlignment="Top" />
+        <CheckBox Height="16" Margin="72,0,86,78" Name="chk" VerticalAlignment="Bottom">CheckBox</CheckBox>
+        <Button Height="23" Margin="76,0,128,28" Name="btn_save" VerticalAlignment="Bottom">Button</Button>
+        <Button Height="30" HorizontalAlignment="Right" Margin="0,0,18,82" Name="btn_cancel" VerticalAlignment="Bottom" Width="75">Button</Button>
+    </Grid>
+</Window>
