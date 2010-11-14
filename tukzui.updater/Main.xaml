@@ -1,17 +1,13 @@
 ﻿<Window x:Class="Main"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    Title="TukzUI Updater" Height="182" Width="238">
+    Title="TukUI Updater" Height="182" Width="238">
     <Grid>
-        <Label Height="34" Margin="44,0" Name="Label5" VerticalAlignment="Top" FontSize="16" FontStyle="Italic">Tukz UI Updater</Label>
-        <Canvas Margin="15,30,14,0" Name="Canvas1" Height="56" VerticalAlignment="Top">
-            <Label Height="29" Name="Label1" Canvas.Left="0" Canvas.Top="0" Width="63">Label</Label>
-            <Label Name="Label3" Height="28.232" Canvas.Left="0" Canvas.Top="30.414" Width="63">Label</Label>
-            <Label Name="Label2" Width="63" Height="29" Canvas.Left="77" Canvas.Top="0">Label</Label>
-            <Label Height="28" Name="Label4" Width="63.305" Canvas.Left="77" Canvas.Top="30.646">Label</Label>
+        <Label Height="34" Margin="44,0" Name="Label5" VerticalAlignment="Top" FontSize="16" FontStyle="Italic">Tuk UI Updater</Label>
+        <Canvas Margin="15,30,14,57" Name="Canvas1">
+            <Label Name="Label2" Width="187" Height="27" Canvas.Left="0" Canvas.Top="0">      Welcome to TukUI Updater.</Label>
         </Canvas>
-        <ProgressBar Height="10" Margin="0,0,14,29" Name="ProgressBar1" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="187" />
-        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,14,0" Name="btn_update" VerticalAlignment="Bottom" Width="75">Update</Button>
-        <Button Height="23" Margin="15,0,0,0" Name="btn_settings" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="75">Settings</Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,14,17" Name="btn_update" VerticalAlignment="Bottom" Width="75">Update</Button>
+        <Button Height="23" Margin="15,0,0,17" Name="btn_settings" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="75">Settings</Button>
     </Grid>
 </Window>
