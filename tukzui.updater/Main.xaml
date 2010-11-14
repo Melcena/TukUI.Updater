@@ -5,10 +5,10 @@
     <Grid>
         <Label Height="34" Margin="44,0" Name="Label5" VerticalAlignment="Top" FontSize="16" FontStyle="Italic">Tukz UI Updater</Label>
         <Canvas Margin="15,30,14,0" Name="Canvas1" Height="56" VerticalAlignment="Top">
-            <Label Height="29" Name="Label1" Canvas.Left="0" Canvas.Top="0" Width="47">Label</Label>
-            <Label Name="Label3" Height="28.232" Canvas.Left="0" Canvas.Top="30.414" Width="47">Label</Label>
+            <Label Height="29" Name="Label1" Canvas.Left="0" Canvas.Top="0" Width="63">Label</Label>
+            <Label Name="Label3" Height="28.232" Canvas.Left="0" Canvas.Top="30.414" Width="63">Label</Label>
             <Label Name="Label2" Width="63" Height="29" Canvas.Left="77" Canvas.Top="0">Label</Label>
-            <Label Height="28" Name="Label4" Width="63.305" Canvas.Left="63.311" Canvas.Top="30.646">Label</Label>
+            <Label Height="28" Name="Label4" Width="63.305" Canvas.Left="77" Canvas.Top="30.646">Label</Label>
         </Canvas>
         <ProgressBar Height="10" Margin="0,0,14,29" Name="ProgressBar1" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="187" />
         <Button Height="23" HorizontalAlignment="Right" Margin="0,0,14,0" Name="btn_update" VerticalAlignment="Bottom" Width="75">Update</Button>
